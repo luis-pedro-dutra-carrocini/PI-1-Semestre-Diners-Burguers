@@ -22,7 +22,7 @@ Usuário Cadastrado:
 * Dados do cliente (Nessa página será exibido os dados do usuário, que foram apresentados durante o seu cadastro, permitindo com que ele os altere ou exclua a sua conta) - Essa página ainda não está em pleno funcionamento, pois ainda não foi implementado o Banco de Dados;
   
 
-## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Mini-Pi-HTML5-CSS3/index.html)
+## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/PI-1-Semestre-Diners-Burguers/)
 
 
 ## 📦 Aparência
