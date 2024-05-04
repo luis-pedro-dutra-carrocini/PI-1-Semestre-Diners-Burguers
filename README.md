@@ -33,6 +33,10 @@ Usuário Cadastrado:
 <img src="/prints/print4.png">
 <img src="/prints/print5.png">
 <img src="/prints/print6.png">
+<img src="/prints/print7.png">
+<img src="/prints/print8.png">
+<img src="/prints/print9.png">
+<img src="/prints/print10.png">
 
 ## 🚀 Obter cópia
 
