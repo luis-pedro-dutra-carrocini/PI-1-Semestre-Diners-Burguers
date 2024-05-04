@@ -1,11 +1,12 @@
 .form-login{
     background-color: #1b1b1b;
-    width: 75%;
+    width: 95%;
     border-radius: 7px;
+    padding: 10px;
 }
 
 .form-login div{
-    width: 90%;
+    width: 95%;
     text-align: left;
 }
 
