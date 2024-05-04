@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contato</title>
+
+    <!-- Importando CSS-->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <!-- Icone na página -->
+    <link rel="icon" href="images/logos/logo 4.png" type="image/png">
+
+    <!-- Importando Icones para a página-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+  </head>
+  <body>
+    <section class="menu-principal">
+      <div class="menu container">
+        <img src="./images/logos/logo 4.png" alt="logo" />
+
+        <nav>
+          <ul class="menu-info">
+            <li><a href="index.html" class="menu-item">Início</a></li>
+            <li><a href="sobre.html" class="menu-item">Sobre nós</a></li>
+            <li><a href="cardapio.html" class="menu-item">Cardápio</a></li>
+            <li><a href="contato.html" class="menu-item">Contato</a></li>
+          </ul>
+        </nav>
+
+        <button class="button" onclick="window.location.href = 'fazerpedido.html'">Fazer Pedido</button>
+
+        <div class="mobile-menu-icon">
+          <button class="mobile-menu-icon-button">
+            <img src="./images/icons/menu.svg" alt="" class="icon" />
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-menu">
+        <div class="mobile-menu-close">
+          <button class="mobile-menu-close-btn">X</button>
+        </div>
+        <ul class="menu-info">
+          <li><a href="index.html" class="menu-item">Início</a></li>
+          <li><a href="sobre.html" class="menu-item">Sobre nós</a></li>
+          <li><a href="cardapio.html" class="menu-item">Cardápio</a></li
+          <li><a href="contato.html" class="menu-item">Contato</a></li>
+        </ul>
+
+        <button class="button" onclick="window.location.href = 'fazerpedido.html'">Fazer Pedido</button>
+      </div>
+    </section>
+
+    <div class="overlay hidden"></div>
+
+    <!-- <section class="banner">
+      <div class="container">.</div>
+    </section> -->
+
+    <section class="contact-area">
+      <a href=""><img src="./images/icons/facebook.png" alt="" srcset="" /></a>
+      <a href=""><img src="./images/icons/instagram.png" alt="" srcset="" /></a>
+      <a href=""><img src="./images/icons/whatsapp.png" alt="" srcset="" /></a>
+    </section>
+
+    <a href="https://wa.me/5516999999999" target="_blank">
+      <img class="logo-wpp" src="./images/icons/icons8-whatsapp.svg" alt="" srcset="">
+    </a>
+
+    <script src="./js/geral.js"></script>
+  </body>
+</html>
