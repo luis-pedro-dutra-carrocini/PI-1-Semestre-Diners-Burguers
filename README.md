@@ -1,6 +1,6 @@
 # PI 1° Semestre - Diner's Burguers (Um site para uma Hamburgueria)
 
-Esse projeto é o primeiro PI (Projeto Interdisciplinar), seu intuito é unir os conhecimentos adquiridos nas disciplinas de Engenharia de Software I, Design Digital e Programação Web I, apresentadas no primeiro semestre, criando um site de vendas de uma hamburgueria fictícia.  Atualmente o site foi desenvolvido com as linguagens HTML5, CSS3 e JavaScript, sendo somente a parte visual. Posteriormente, no segundo semestre, será implementado o bancoo de dados, tornando-o funcional.
+Esse projeto é o primeiro PI (Projeto Interdisciplinar) do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) da Faculdade de Tecnologia Fatec Franca Dr. Thomaz Novelino. Seu intuito é unir os conhecimentos adquiridos nas principais disciplinas do primeiro semestre, Engenharia de Software I, Design Digital e Desenvolvimento Web I, criando um site de vendas de uma hamburgueria fictícia.  Atualmente o site foi desenvolvido com as linguagens HTML5, CSS3 e JavaScript, sendo somente a parte visual. Posteriormente, no segundo semestre, será implementado o banco de dados, tornando-o funcional.
 
 
 ## 📄 Descrição
@@ -10,9 +10,9 @@ O site apresenta as seguintes páginas, com as seguintes funções:
 Usuário não Logado:
 * Index (Nessa página há uma breve apresentação da hamburgueria, mostrando os hamburguers mais famosos e vendidos, mostrando também as melhores opiniões em relação a hamburgueria, além de um mapa onde mostra a sua localização) 
 * Sobre Nós (Nessa página há uma apresentação da Diner's Burguers, contando um pouco de sua história, visão, premiações, apresentação do espaço e ofertas diferenciadas);
-* Cardápio (Nessa página são apresentados todos os produtos vendidos na Diner's Burguers, seus hambuerguers, bebidas e sobremesas)
-* Contato ();
-* Fazer Pedido (Nessa página são exibidos todos os produtos da hamburgueria, permitindo ao usuário adiciona-los ao carrinho com as quantidades desejadas e tamanhos escolhidos. Podendo ao final, finalizar o pedido, fazendo com que seja enviada uma mensagem para a Diner's Burguers com as informações do pedido);
+* Cardápio (Nessa página são apresentados todos os produtos vendidos na Diner's Burguers, seus hamburguers, bebidas e sobremesas)
+* Contato (Nessa página são apresentadas as formas de contato com a hamburgueria, além dos horários de funcionamento, localização, formas de pagamento, horários de funcionamento e prazos para a entrega e retirada dos pedidos);
+* Fazer Pedido (Nessa página são exibidos todos os produtos da hamburgueria, permitindo ao usuário adicioná-los ao carrinho com as quantidades desejadas e tamanhos escolhidos. Podendo ao final, finalizar o pedido, fazendo com que seja enviada uma mensagem para a Diner's Burguers com as informações do pedido);
 * Login (Nessa página será permitido que o usuário entre em sua área, caso ele informe o email e senha corretos) - Essa página ainda não está em pleno funcionamento, pois ainda não foi implementado o Banco de Dados;
 * Cadastrar-se (Nessa página será permitindo que o usuário se cadastre no site e seja redirecionado para a sua área, caso ele informe os seguintes dados: Email, Nome, Telefone e Celular, Endereço [Verificação de CEP] e Senha) - Essa página ainda não está em pleno funcionamento, pois ainda não foi implementado o Banco de Dados;
 
@@ -37,6 +37,11 @@ Usuário Cadastrado:
 <img src="/prints/print8.png">
 <img src="/prints/print9.png">
 <img src="/prints/print10.png">
+<img src="/prints/print11.png">
+<img src="/prints/print12.png">
+<img src="/prints/print13.png">
+<img src="/prints/print15.png">
+<img src="/prints/print15.png">
 
 ## 🚀 Obter cópia
 
@@ -73,16 +78,16 @@ Linguagens, Frameworks e API's:
 
 ## ✒️ Autores
 
-* **João Vitor Luqueti Silva** - *Criação da página Contato;*
-* **Leonardo Henrique Oliveira Cunha** - *Idéia central; Criação da página Index; Elaboração e criação do Design do Site;*
-* **Luís Pedro Dutra Carrocini ** - *Criação das páginas: Fazer Pedido, Login, Cadastrar, Home e Dados do Cliente;*
-* **Maria Luiza Barbosa** - *Criação da página Cardápio;*
+* **[João Vitor Luqueti Silva](https://github.com/joaoluquetti)** - *Criação da página Contato;*
+* **[Leonardo Henrique Oliveira Cunha](https://github.com/leonardocunha1)** - *Idéia central; Criação da página Index; Elaboração e criação do Design do Site;*
+* **[Luís Pedro Dutra Carrocini](https://github.com/luis-pedro-dutra-carrocini)** - *Criação das páginas: Fazer Pedido, Login, Cadastrar, Home e Dados do Cliente;*
+* **[Maria Luiza Barbosa](https://github.com/MariaLuizaBarbosa)** - *Criação da página Cardápio;*
 * **Vinícius de Araujo Silva** - *Criação da página Sobre;*
 
 
 ## 🎁 Expressões de gratidão
 
-* Agradecemos a todos os professores que nos ministraram o curso durante o primeiro semestre, especialmente aos professores que nos ministraram as disciplinas fundamentais para o desenvolvimento desse projeto: [Prof. Márcio](https://github.com/marciofunes), Prof. Fernando, Prof. Leoonardo;
+* Agradecemos a todos os professores que nos ministraram o curso durante o primeiro semestre, especialmente aos professores que nos ministraram as disciplinas fundamentais para o desenvolvimento desse projeto: [Prof. Márcio](https://github.com/marciofunes), Prof. Fernando, [Prof. Leoonardo](https://github.com/LeonardoRaiz);
   
 
 ---
