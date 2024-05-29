@@ -27,21 +27,40 @@ Usuário Cadastrado:
 
 ## 📦 Aparência
 
+### Página Inicial
+
 <img src="/prints/print1.png">
 <img src="/prints/print2.png">
 <img src="/prints/print3.png">
 <img src="/prints/print4.png">
 <img src="/prints/print5.png">
+
+### Fazer Pedido
+
 <img src="/prints/print6.png">
 <img src="/prints/print7.png">
 <img src="/prints/print8.png">
+
+### Login e Cadastro
 <img src="/prints/print9.png">
 <img src="/prints/print10.png">
+
+### Sobre nós
 <img src="/prints/print11.png">
 <img src="/prints/print12.png">
 <img src="/prints/print13.png">
+
+### Cardápio
 <img src="/prints/print14.png">
+
+### Contato
 <img src="/prints/print15.png">
+
+### Responsividade
+
+<img src="/prints/print16.png">
+<img src="/prints/print17.png">
+<img src="/prints/print18.png">
 
 ## 🚀 Obter cópia
 
@@ -81,13 +100,16 @@ Linguagens, Frameworks e API's:
 * **[João Vitor Luqueti Silva](https://github.com/joaoluquetti)** - *Criação da página Contato;*
 * **[Leonardo Henrique Oliveira Cunha](https://github.com/leonardocunha1)** - *Idéia central; Criação da página Index; Elaboração e criação do Design do Site;*
 * **[Luís Pedro Dutra Carrocini](https://github.com/luis-pedro-dutra-carrocini)** - *Criação das páginas: Fazer Pedido, Login, Cadastrar, Home e Dados do Cliente;*
-* **[Maria Luiza Barbosa](https://github.com/MariaLuizaBarbosa)** - *Criação da página Cardápio;*
-* **Vinícius de Araujo Silva** - *Criação da página Sobre;*
+* **[Maria Luiza Barbosa](https://github.com/mluizabss)** - *Criação da página Cardápio;*
+* **[Vinícius de Araujo Silva](https://github.com/Viniciussinc)** - *Criação da página Sobre;*
 
 
 ## 🎁 Expressões de gratidão
 
-* Agradecemos a todos os professores que nos ministraram o curso durante o primeiro semestre, especialmente aos professores que nos ministraram as disciplinas fundamentais para o desenvolvimento desse projeto: [Prof. Márcio](https://github.com/marciofunes), Prof. Fernando, [Prof. Leoonardo](https://github.com/LeonardoRaiz);
+* Agradecemos a todos os professores que nos ministraram o curso durante o primeiro semestre, especialmente aos professores que nos ministraram as disciplinas fundamentais para o desenvolvimento desse projeto: 
+- **Prof. Fernando** - Engenharia de Software I;
+- **[Prof. Leonardo](https://github.com/LeonardoRaiz)** - Design Digital;
+- **[Prof. Márcio](https://github.com/marciofunes)** - Desenvolvimento WEB I;
   
 
 ---
