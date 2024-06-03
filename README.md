@@ -98,9 +98,9 @@ Linguagens, Frameworks e API's:
 ## ✒️ Autores
 
 * **[João Vitor Luqueti Silva](https://github.com/joaoluquetti)** - *Criação da página Contato;*
-* **[Leonardo Henrique Oliveira Cunha](https://github.com/leonardocunha1)** - *Idéia central; Criação da página Index; Elaboração e criação do Design do Site;*
-* **[Luís Pedro Dutra Carrocini](https://github.com/luis-pedro-dutra-carrocini)** - *Criação das páginas: Fazer Pedido, Login, Cadastrar, Home e Dados do Cliente;*
-* **[Maria Luiza Barbosa](https://github.com/mluizabss)** - *Criação da página Cardápio;*
+* **[Leonardo Henrique Oliveira Cunha](https://github.com/leonardocunha1)** - *Idéia Central; Criação da página Index; Elaboração e Criação do Design do Site;*
+* **[Luís Pedro Dutra Carrocini](https://github.com/luis-pedro-dutra-carrocini)** - *Criação das páginas: Fazer Pedido, Login e Cadastrar; Documentação do Projeto*
+* **[Maria Luiza Barbosa](https://github.com/mluizabss)** - *Criação da página Cardápio; Figma do Projeto;*
 * **[Vinícius de Araujo Silva](https://github.com/Viniciussinc)** - *Criação da página Sobre;*
 
 
