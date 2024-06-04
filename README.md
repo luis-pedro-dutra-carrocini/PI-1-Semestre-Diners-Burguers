@@ -2,7 +2,6 @@
 
 Esse projeto é o primeiro PI (Projeto Interdisciplinar) do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) da Faculdade de Tecnologia Fatec Franca Dr. Thomaz Novelino. Seu intuito é unir os conhecimentos adquiridos nas principais disciplinas do primeiro semestre, Engenharia de Software I, Design Digital e Desenvolvimento Web I, criando um site de vendas de uma hamburgueria fictícia.  Atualmente o site foi desenvolvido com as linguagens HTML5, CSS3 e JavaScript, sendo somente a parte visual. Posteriormente, no segundo semestre, será implementado o banco de dados, tornando-o funcional.
 
-
 ## 📄 Descrição
 
 O site apresenta as seguintes páginas, com as seguintes funções:
@@ -20,10 +19,17 @@ Usuário Cadastrado:
 * Home (Ainda estamos pensando no que será implementado no próximo semestre);
 * Carrinho (Nessa página será exibido o carrinho, salvo com as informações, que o usuário fez em algum outro momento que esteve no site) - Essa página ainda não está em pleno funcionamento, pois ainda não foi implementado o Banco de Dados;
 * Dados do cliente (Nessa página será exibido os dados do usuário, que foram apresentados durante o seu cadastro, permitindo com que ele os altere ou exclua a sua conta) - Essa página ainda não está em pleno funcionamento, pois ainda não foi implementado o Banco de Dados;
-  
+<br>
 
 ## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/PI-1-Semestre-Diners-Burguers/)
+<br>
 
+## 🏆 Figma do Projeto
+### 🥇 [Alta Fidelidade](https://www.figma.com/proto/8aMWWxxmfBUDnElU1l8U4H/Diiner's-baixa-fidelidade?node-id=2101-39&t=taUf2J3xbImwC8Ag-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2 )
+### 🥈 [Baixa Fidelidade](https://www.figma.com/proto/IWbFtg07YjOczgPV5Cm4Ph/Diiner's-alta-fidelidade?t=quEL0d54ALAringR-1&scaling=scale-down&page-id=0%3A1&node-id=5-2&starting-point-node-id=5%3A2)
+<br>
+
+## 📒 [Documentação do Projeto](https://luis-pedro-dutra-carrocini.github.io/PI-1-Semestre-Diners-Burguers/documentacao/Documentação-PI-1-Semestre.docx)
 
 ## 📦 Aparência
 
@@ -61,8 +67,9 @@ Usuário Cadastrado:
 <img src="/prints/print16.png">
 <img src="/prints/print17.png">
 <img src="/prints/print18.png">
+<br>
 
-## 🚀 Obter cópia
+## 📃 Obter cópia
 
 Para obter uma cópia basta baixar todos os arquivos presentes nesse repositório, e executar a página INDEX.HTML em um navagador (Chrome, Edge, FireFox, etc.).
 
@@ -79,7 +86,6 @@ Para que o site possa apresentar pleno funcionamento é necessário um navegador
 * Deixe ativado o JavaScript no seu navegador;
 * Execute o arquivo INDEX.HTML;
 
-
 ## 🛠️ Construído com
 
 Ferramentas:
@@ -92,8 +98,7 @@ Linguagens, Frameworks e API's:
 * Java Script - Linguagem de Programação
 * CSS - Linguagem Web de Formatação;
 * API ViaCep - Utilizada pa a obtenção dos dados de CEP;
-* API WhatsApp - Utilizada para enviar mensagens;
-  
+* API WhatsApp - Utilizada para enviar mensagens; 
 
 ## ✒️ Autores
 
@@ -103,14 +108,12 @@ Linguagens, Frameworks e API's:
 * **[Maria Luiza Barbosa](https://github.com/mluizabss)** - *Criação da página Cardápio; Figma do Projeto;*
 * **[Vinícius de Araujo Silva](https://github.com/Viniciussinc)** - *Criação da página Sobre;*
 
-
 ## 🎁 Expressões de gratidão
 
 * Agradecemos a todos os professores que nos ministraram o curso durante o primeiro semestre, especialmente aos professores que nos ministraram as disciplinas fundamentais para o desenvolvimento desse projeto: 
 - **Prof. Fernando** - Engenharia de Software I;
 - **[Prof. Leonardo](https://github.com/LeonardoRaiz)** - Design Digital;
 - **[Prof. Márcio](https://github.com/marciofunes)** - Desenvolvimento WEB I;
-  
 
 ---
 Esse site foi desenvolvido no início de nossa carreira, por isso temos orgulho desse projeto, por ser o nosso primeiro, então releve um pouco o nosso código de iniciante rsrsrs. 
